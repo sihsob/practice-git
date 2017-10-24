@@ -1,3 +1,4 @@
-## List of Contributors
-
+## List of Contributors 
+Francis Guzikowski
 Jihoo Brian Park
+
