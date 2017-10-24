@@ -1,3 +1,4 @@
 ## List of Contributors
-Beverly Sihsobhon
-Varun Rao
+Jihoo Brian Park
+Francis Guzikowski
+Shichen You
