@@ -1,5 +1,6 @@
 ## List of Contributors
 Beverly Sihsobhon
+Aaron Taylor
 Matthew Carlson
 Brian Lee
 Dylan Moody
